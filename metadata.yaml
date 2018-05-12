@@ -1,0 +1,29 @@
+_repo: The-Rubaiyat-of-Ohow-DryyamWith-Apologies-to-Omar_23338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duff, J. L.
+    gutenberg_agent_id: '25807'
+    url: http://www.gutenberg.org/2009/agents/25807
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2007-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+- !lcsh 'Humorous poetry'
+- !lcsh 'Prohibition'
+- !lcc 'PS'
+title: 'The Rubaiyat of Ohow Dryyam
+
+  With Apologies to Omar'
+url: http://www.gutenberg.org/ebooks/23338
