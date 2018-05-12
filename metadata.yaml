@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25807'
     url: http://www.gutenberg.org/2009/agents/25807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23338#The-Rubaiyat-of-Ohow-DryyamWith-Apologies-to-Omar
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-11-05'
 gutenberg_type: Text
